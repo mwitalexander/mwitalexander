@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mwitalexander
-- 👀 I’m interested in java
-- 🌱 I’m currently learning computer sciene
-- 💞️ I’m looking to collaborate on starter projects
-- 📫 How to reach me via email mwitalexander2018@gmail.co
+- 👋 Hi, I’m malex
+- 👀 I’m interested in kali linux
+- 🌱 I’m currently learning computer science 
+- 💞️ I’m looking learn and contribute to the github community
+- 📫 How to reach me via email mwitalexander2018@gmail.com
 
 <!---
 mwitalexander/mwitalexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
