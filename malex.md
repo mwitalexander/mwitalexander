@@ -1,5 +1,5 @@
 - 👋 Hi, I’m malex
-- 👀 I’m interested in kali linux
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking learn and contribute to the github community
 - 📫 How to reach me via email mwitalexander2018@gmail.com
